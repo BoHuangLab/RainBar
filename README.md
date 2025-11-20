@@ -1,7 +1,7 @@
 # RAINBAR: A Live-Cell CRISPR Screening Platform
 
 ## Description
---INSERT PROJECT DESCRIPTION--
+Preliminary code for decoding RainBar, will be updated in the future. NFkB Assays code will be uploaded soon. 
 
 ## Table of Contents
 - [Description](#description)
